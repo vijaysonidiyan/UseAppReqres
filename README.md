@@ -34,6 +34,7 @@ This project demonstrates how to build a .NET 8 component (class library) that i
 - install nessasary library if missing and install it if needed
 
 ### 3. Run the Console App
+- cd UserWebApp.Test
 - Run UserWebApp.Console using (dotnet run) command 
 - Example output:
 - Fetched 12 users:
