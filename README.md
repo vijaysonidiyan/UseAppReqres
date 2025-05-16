@@ -26,7 +26,6 @@ This project demonstrates how to build a .NET 8 component (class library) that i
 ### 1. Clone the Repository
 
 - git clone https://github.com/vijaysonidiyan/UseAppReqres.git
-- cd reqres-integration-demo
 
 ### 2. Build the Solution
 - open sln file in visual studio 2022
@@ -34,7 +33,7 @@ This project demonstrates how to build a .NET 8 component (class library) that i
 - install nessasary library if missing and install it if needed
 
 ### 3. Run the Console App
-- cd UserWebApp.Test
+- cd UserWebApp.Console
 - Run UserWebApp.Console using (dotnet run) command 
 - Example output:
 - Fetched 12 users:
